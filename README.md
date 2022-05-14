@@ -1,6 +1,6 @@
 ## IP Scanner
 While network scanning need to find how much gateways and hosts.
-Wrote simple gateway scanner (*.*.*.1) and host IP scanner with bash scripting.
+Wrote simple gateway scanner (X.X.X.1) and host IP scanner with bash scripting.
 
 #ipsweep.sh Usage
 ```
